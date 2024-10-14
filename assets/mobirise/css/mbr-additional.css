@@ -684,7 +684,7 @@ a {
 }
 .cid-uqQhF31NXF {
   padding-top: 10rem;
-  padding-bottom: 2rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/invitacion-2-1134x1134.jpg");
 }
 .cid-uqQhF31NXF .mbr-overlay {
@@ -718,4 +718,7 @@ a {
 }
 .cid-uqQhF31NXF .mbr-section-subtitle {
   color: #ffffff;
+}
+.cid-uqQhF31NXF P {
+  text-align: center;
 }
